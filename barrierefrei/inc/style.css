@@ -1,0 +1,30 @@
+  .left {
+    float: left;
+    text-align: right;
+    width: 40%;
+    margin-right: 2%;
+    }
+	
+	.leftbutton {
+		margin-top: 20px;
+		padding: 10px;
+		margin-left: 15%;
+	}
+	
+	.button{
+		padding: 10px;
+	}
+	.fieldset{
+		float: center;
+		width: 300px;
+		margin: auto;
+	}
+	h1{
+		text-align: center;
+	}
+	
+	input:hover, input:active, input:focus, 
+	select:hover, select:active, select:focus
+	textarea:hover, textarea:active, textarea:focus {
+    background-color: #ffaaaa;
+}
